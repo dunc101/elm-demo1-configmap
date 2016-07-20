@@ -1,0 +1,10 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: elm-demo1-configmap
+policy:
+  policyNumber: 1111222233334444
+user:
+  username: local
+  password: abcdefg
